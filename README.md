@@ -33,7 +33,7 @@ The extension assumes that you have a TOP LEVEL aco as shown in:
 
 From the Cake APP folder, you have to run:
 ***
-Console/cake aro_check
+Console/cake aco_check
 ***
 
 The extension will ask you the name of your root ACO. Provide the name of your root ACO here. Default is controllers.
